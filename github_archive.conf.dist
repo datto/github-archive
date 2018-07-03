@@ -1,0 +1,7 @@
+[GITHUB_ENTERPRISE_DB]
+host=
+password=
+
+[ARCHIVE]
+gh_repos_local_dir=./github-enterprise/data/current/repositories
+archive_local_dir=./archive

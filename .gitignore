@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+github-enterprise/*
+github_archive.conf
+*creds.sh
+*.log
+archive/*
